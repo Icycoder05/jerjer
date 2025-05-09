@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Explore the many benefits of regular exercise for both physical and mental health.">
+    <title>The Benefits of Regular Exercise</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #red;
+            color: #333333;
+        }
+        h1, h2, h3 {
+            color: #2E8B57; 
+        }
+        .content-section {
+            margin-bottom: 20px;
+        }
+        .intro, .discussion, .references {
+            margin: 20px;
+        }
+        blockquote {
+            background-color: #f9f9f9;
+            border-left: 10px solid #2E8B57;
+            padding: 10px;
+            font-style: italic;
+        }
+        a {
+            color: #1E90FF;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        ul {
+            margin-left: 40px;
+        }
+        ol {
+            margin-left: 40px;
+        }
+        hr {
+            border: 1px solid #2E8B57;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+        .footer {
+            text-align: center;
+            margin-top: 40px;
+            font-size: 12px;
+        }
+		 </style>
+</head>
+<body>
+	<header>
+        <h1>The Benefits of playing with John Earl Roamer</h1>
+    </header>
+	<image src="https://media.istockphoto.com/id/157030584/vector/thumb-up-emoticon.jpg?s=612x612&w=0&k=20&c=GGl4NM_6_BzvJxLSl7uCDF4Vlo_zHGZVmmqOBIewgKg=" width="600px" height="400px">
+	
+        <h2>will say my head hwurts once he is done</h2>
+        
+    <image src="https://media.istockphoto.com/id/153120555/vector/headache-emoticon.jpg?s=612x612&w=0&k=20&c=1mCnEtO5iWB_V-YCH1u2iTy1EydRqQiKfWRBG7EZuTE=" width="600px" height="600px">
+    
+		<h3>will ignore your text and say tehe </h3>
+		
+	<image src="https://i.pinimg.com/736x/65/57/49/655749d5a30dcdb3743abefcf866489f.jpg" width="600px" height="600px">
+	
+		<h4>power scaling god</h4>
+	<image src="https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/tgaa_scales.png" width="600px" height="600px">
+	
+		<h5>john robloxian the robloxian GOD!!!!!</h5>
+	<image src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ259NQ1vIA7peT8a4nNzs54-7OMO9Iw2uEQ&s" width="600px" height"600px">
+	
+	<p>PS EARL ANSWER THE GOD DAMN FUCKING PHONE</p>
+</body>
+</html>
